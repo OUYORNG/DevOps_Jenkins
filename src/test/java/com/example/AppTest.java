@@ -1,4 +1,4 @@
-package tp1.gic;
+package com.example;
 
 import org.junit.jupiter.api.Test;
 

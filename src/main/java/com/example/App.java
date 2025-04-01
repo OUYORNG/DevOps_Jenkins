@@ -1,4 +1,4 @@
-package tp.gic;
+package com.example;
 
 /**
  * Hello world!
