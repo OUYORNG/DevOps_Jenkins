@@ -1,4 +1,4 @@
-package tp1.gic;
+package tp.gic;
 
 /**
  * Hello world!
